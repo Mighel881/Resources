@@ -9,7 +9,6 @@
     "ShortcutName": "Search For AppStore Apps",
     "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
     "ShortcutID": "444297fd8f234f4db0a9686645fc04c3",
-    "ShortcutRun": "Search%20For%20AppStore%20Apps",
     "Shortcut": true
   },
   {
@@ -23,7 +22,6 @@
     "ShortcutName": "Search Apple Music",
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/ea/12/f7ea1219-ad76-643f-d722-29e339b65a51/source/100x100bb.jpg",
     "ShortcutID": "c5c1fc080f4445f49ab244b7e0ecfabe",
-    "ShortcutRun": "Search%20Apple%20Music",
     "Shortcut": false
   },
   {
@@ -37,14 +35,12 @@
     "ShortcutName": "Get IPA From Plist",
     "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
     "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1",
-    "ShortcutRun": "Get%20IPA%20From%20Plist",
     "Shortcut": false
   },
   {
     "ShortcutName": "Install IPA",
     "ShortcutIcon": "https://appinstallerios.com/Img/Install.png",
     "ShortcutID": "9a1eefbfdad54474b6d6083ca1d32f6e",
-    "ShortcutRun": "Install%20IPA",
     "Shortcut": false
   },
   {
