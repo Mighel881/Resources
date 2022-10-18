@@ -15,7 +15,6 @@
     "ShortcutName": "Get App Info From App Store App",
     "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
     "ShortcutID": "04c4530a8a5c4f229c3338d169a4750b",
-    "ShortcutRun": "Get%20App%20Info%20From%20App%20Store%20App",
     "Shortcut": false
   },
   {
@@ -28,7 +27,6 @@
     "ShortcutName": "Search And Play Apple Music",
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/ea/12/f7ea1219-ad76-643f-d722-29e339b65a51/source/100x100bb.jpg",
     "ShortcutID": "fbcdc4ee3ca0490a9675623500a362f8",
-    "ShortcutRun": "Search%20And%20Play%20Apple%20Music",
     "Shortcut": false
   },
   {
@@ -47,21 +45,18 @@
     "ShortcutName": "Scarlet Repo",
     "ShortcutIcon": "https://icons.appinstallerios.com/ScarletIcon.png",
     "ShortcutID": "d92a7f638d854c7cb9f685f2d4a10035",
-    "ShortcutRun": "Scarlet%20Repo",
     "Shortcut": false
   },
   {
     "ShortcutName": "iOS Beta Checker",
     "ShortcutIcon": "https://AppInstallerios.com/Img/iOS-Beta-Chacker.png",
     "ShortcutID": "b4a8e2ee277a4cacb4f14986653c62bf",
-    "ShortcutRun": "iOS%20Beta%20Checker",
     "Shortcut": false
   },
   {
     "ShortcutName": "iOS Signing Status",
     "ShortcutIcon": "https://AppInstallerios.com/Img/iOS-Status.png",
     "ShortcutID": "2623b71abccd41b5ae199ccd3d9e60f7",
-    "ShortcutRun": "iOS%20Signing%20Status",
     "Shortcut": true
   }
 ]
