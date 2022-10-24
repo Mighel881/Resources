@@ -1,5 +1,11 @@
 [
   {
+    "iOS": "16.1",
+    "Signed": true,
+    "Website": "",
+    "Icon": "iOS16"
+  },
+  {
     "iOS": "16.0.3",
     "Signed": true,
     "Website": "HT213480",
@@ -22,6 +28,12 @@
     "Signed": false,
     "Website": "HT213446",
     "Icon": "iOS16"
+  },
+  {
+    "iOS": "15.7.1",
+    "Signed": true,
+    "Website": "",
+    "Icon": "iOS15"
   },
   {
     "iOS": "15.7",
