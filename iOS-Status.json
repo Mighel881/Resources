@@ -30,12 +30,6 @@
     "Icon": "iOS16"
   },
   {
-    "iOS": "15.7.1",
-    "Signed": true,
-    "Website": "",
-    "Icon": "iOS15"
-  },
-  {
     "iOS": "15.7",
     "Signed": true,
     "Website": "HT213445",
